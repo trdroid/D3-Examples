@@ -2,6 +2,7 @@
 
 ** The following does not work **
 
+```html
 <!DOCTYPE html>
 <html>
   <head>
@@ -19,3 +20,4 @@
     </script>
   </body>
 </html>
+```
