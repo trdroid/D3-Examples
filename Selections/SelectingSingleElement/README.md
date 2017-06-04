@@ -21,3 +21,5 @@
   </body>
 </html>
 ```
+
+![](_misc/selecting%20single%20element%203.PNG)
